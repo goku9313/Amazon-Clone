@@ -1,0 +1,30 @@
+.CheckoutProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.CheckoutProduct_Info {
+  padding-left: 20px;
+}
+
+.ProductImage {
+  object-fit: contain;
+  height: 180px;
+  width: 180px;
+}
+
+.ProductInfo {
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.RemoveFromBasket {
+  background: rgb(194, 194, 53);
+  border: 1px solid;
+  margin-top: 10px;
+  padding: 1px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  border-radius: 2px;
+}
